@@ -51,6 +51,8 @@ If any of the following names matches the type of the platform, it should be use
 * wave glider
 * mooring
 * plane
+* uav
+* quadcopter
 * saildrone
 * ship
 * station
