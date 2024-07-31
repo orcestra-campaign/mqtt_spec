@@ -1,8 +1,8 @@
-# EUREC4A MQTT broker message specification
+# ORCESTRA MQTT broker message specification
 
 ## General
 
-The [EUREC4A](https://www.eurec4a.eu) MQTT broker is intended to exchange various pieces of live information during the EUREC4A field campaign.
+The [ORCESTRA](https://www.orcestra-campaign.org) MQTT broker is intended to exchange various pieces of live information during the ORCESTRA field campaign.
 
 ## Messages
 All messages are encoded as JSON. Timestamps are given in UTC and encoded according to [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601). Any physical quantities must be given in terms of the appropriate [SI base units](https://en.wikipedia.org/wiki/SI_base_unit) if not designated otherwise.
